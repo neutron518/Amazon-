@@ -42,7 +42,7 @@
 
     <section class="cta">
       <h2>Ready to Start?</h2>
-      <a href="YOUR_AFFILIATE_LINK_HERE">
+      <a href="https://nx2bs.com/c?o=378&a=20967">
         <button>Apply Now</button>
       </a>
     </section>
